@@ -23,6 +23,7 @@ figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
+  text-indent: 12px;
 }
 
 nav {
