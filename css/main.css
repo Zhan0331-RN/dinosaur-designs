@@ -8,8 +8,9 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 img {
-  width: 100%
+  width: 100%;
 }
 
 h1, h2 {
@@ -23,6 +24,7 @@ figcaption {
   font-style: italic;
   text-align: center;
 }
+
 nav {
   font-family: Georgia, serif;
   font-size: 1.125rem;
